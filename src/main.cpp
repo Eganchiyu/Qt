@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
 
     QWidget window;
     window.setWindowTitle("YDP Test");
-    window.resize(400, 200);
+    window.resize(400, 200); 
 
     QVBoxLayout *layout = new QVBoxLayout(&window);
     QLabel *label = new QLabel("Hello DictPen!\nQt 5.15.2 is Running!", &window);

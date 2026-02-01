@@ -1,0 +1,5 @@
+"xmake.additionalConfigArguments": [
+    "--toolchain=zig",
+    "--qt=\"D:/dictpen/codes/Qt/sysroot\"", 
+    "--build-platform=YDP02X"
+]
